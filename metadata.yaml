@@ -1,0 +1,32 @@
+_repo: The-Conjure-Woman_11666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesnutt, Charles W. (Charles Waddell)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '252'
+    url: http://www.gutenberg.org/2009/agents/252
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
+description: Front Cover; Title Page; Copyright; Contents; The Goophered Grapevine;
+  Po' Sandy; Mars Jeems's Nightmare; The Conjurer's Revenge; Sis' Becky's Pickaninny;
+  The Gray Wolf's Ha'nt; Hot-foot Hannibal.
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+- GITenberg
+tableOfContents: The goophered grapevine -- Po' Sandy -- Mars Jeems's nightmare --
+  The conjurer's revenge -- Sis' Becky's pickaninny -- The gray wolf's ha'nt -- Hot-foot
+  Hannibal.
+title: The Conjure Woman
+url: http://www.gutenberg.org/ebooks/11666
