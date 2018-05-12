@@ -1,5 +1,8 @@
 _repo: The-Conjure-Woman_11666
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesnutt, Charles W. (Charles Waddell)
@@ -11,6 +14,8 @@ creator:
 description: Front Cover; Title Page; Copyright; Contents; The Goophered Grapevine;
   Po' Sandy; Mars Jeems's Nightmare; The Conjurer's Revenge; Sis' Becky's Pickaninny;
   The Gray Wolf's Ha'nt; Hot-foot Hannibal.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11666#The-Conjure-Woman
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
